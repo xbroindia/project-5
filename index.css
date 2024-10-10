@@ -102,14 +102,14 @@ body{
     font-size:1.1rem;
     font-weight: bolder;
 }
-/* @media(width:998px){
+@media(width:998px){
     html{
-    font-size:60%
+    font-size:40%
     }
 }
 
 @media(width:598px){
     html{
-    font-size:0%
+    font-size:35%
     }
-} */
+}
