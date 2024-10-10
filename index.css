@@ -24,7 +24,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: rgb(255, 255, 255);
-    height: 38rem;
+    height: 35rem;
     width:23rem;
     padding-left: 1.8rem;
     border-radius: 1rem;
@@ -32,7 +32,7 @@ body{
     box-shadow:0.4rem 0.4rem  black;
     border:solid 0.1rem;
     overflow: hidden;
-    gap:2rem
+    gap:1rem
 }
 
 .highlight{
@@ -92,7 +92,7 @@ body{
 }
 
 .person img{
-    height: 4rem;
+
 }
 
 .attribution{
